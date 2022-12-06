@@ -1,0 +1,5 @@
+<!--abrir link em nova aba, com segurança-->
+<a href="" target="_blank" rel="noopener noreferrer">
+
+<!--Oque é "noopener" é protejer seu usuario de links externos maliciosos-->
+<!--Oque é "noreferrer" Não querer aparecer num data analytics como trafego referido-->
